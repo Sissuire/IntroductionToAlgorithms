@@ -19,3 +19,11 @@ Persistence shall be taken to me through this project.
 ------------------------------------------------
 
 more are on the way.
+
+================================================
+
+## Content
+
+## Part I -- Foundations
+
+### Ch-1, The Role of Algorithms in Computing
